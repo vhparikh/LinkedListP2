@@ -1,6 +1,7 @@
 //Created Vatsal Parikh
 //Date: 10/27/20
 //main file for LL code
+//Using Nividh Singh's Node.cpp and .h files
 
 //imports
 #include <iostream>
@@ -53,7 +54,7 @@ int main()
       int in;
       float fl;
 
-      //gets all the studnet info
+      //gets all the student info
       cout << "First name: ";
       cin >> newstd->getFirst();
       cout << "Last name: ";
