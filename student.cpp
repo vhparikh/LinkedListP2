@@ -1,3 +1,7 @@
+//Created by Vatsal Parikh
+//Date: 10/27/20
+//.cpp file for student class all comments are in .h file
+
 #include <iostream>
 #include <cstring>
 
